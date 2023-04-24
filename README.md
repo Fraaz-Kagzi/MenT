@@ -10,14 +10,20 @@ We have also added admin accounts where admin can monitor mentorships and curren
 
 
 MenT folder is the react project folder will need that whole folder to run the app
-MenT:
-  public: - contains media files such as logo used in app
+
+
+    MenT:
+    
+      public: - contains media files such as logo used in app
   
-  src: - contains all the scripts and files to run the app
-    Classes: contains the scripts of classes we planned on using -- *"Currently not all classes are being uses"*
+      src: - contains all the scripts and files to run the app
+  
+        Classes: - contains the scripts of classes we planned on using  -- *"Currently not all classes are being uses"*
     
-    csv: unused folder - contains previously used json files before using db.json
+        csv: unused folder - contains previously used json files before using db.json
     
-    pages:
+        pages: - contains js scripts for each page of the app
     
-   db.json - database file used with json.server to create remote api server. Contains Users.json (username & password) and Profiles.json
+          styles: - contains csss style sheets for the pages
+    
+      db.json - database file used with json.server to create remote api server. Contains Users.json (username & password) and Profiles.json
