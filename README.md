@@ -1,10 +1,10 @@
 # MenT
-Mentor Matching app creating for a 2nd year university (Software Engineering) module for FDM group 
-Register or Login using username and password ,
-if registering you will be asked to create a profile with details such as role (mentor/mentee), field , experience and requirements
-using the profiles the algorithm with show you similar profiles with the opposite role (mentor/mentee) to match with and you will be able to send match requests
+-Mentor Matching app creating for a 2nd year university (Software Engineering) module for FDM group 
+-Register or Login using username and password.
+-If registering you will be asked to create a profile with details such as role (mentor/mentee), field , experience and requirements
+-Using the profiles the algorithm with show you similar profiles with the opposite role (mentor/mentee) to match with and you will be able to send match requests
 *Currently the feature to accept requests has not been added so we have added some pre-matched profiles in the db.json file
-If a user is matched they will be able to communicate with a built in chat messenger to the person they are matched with.
+-If a user is matched they will be able to communicate with a built in chat messenger to the person they are matched with.
 
 We have also added admin accounts where admin can monitor mentorships and currently can match any users and also unmatch matched users.
 
