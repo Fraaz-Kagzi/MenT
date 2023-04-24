@@ -10,6 +10,7 @@ We have also added admin accounts where admin can monitor mentorships and curren
 
 
 MenT folder is the react project folder will need that whole folder to run the app
+
 going into the MenT folder will show you another README which will show you how to run the app.
 
 
