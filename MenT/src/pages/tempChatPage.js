@@ -50,7 +50,7 @@ function TempChatPage({user, setUser}) {
         event.preventDefault();
         sendMessage();
       } else {
-        console.log("balls");
+        console.log("test");
       }
     }
 
