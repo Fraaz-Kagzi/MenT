@@ -25,7 +25,7 @@ going into the MenT folder will show you another README which will show you how 
   
       src: - contains all the scripts and files to run the app
   
-            Classes: - contains the scripts of classes we planned on using  -- *"Currently not all classes are being uses"*
+            Classes: - contains the scripts of classes we planned on using  -- *"Currently not all classes are being used"*
     
             csv: unused folder - contains previously used json files before using db.json
     
