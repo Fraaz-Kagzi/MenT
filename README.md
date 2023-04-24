@@ -18,12 +18,12 @@ MenT folder is the react project folder will need that whole folder to run the a
   
       src: - contains all the scripts and files to run the app
   
-        Classes: - contains the scripts of classes we planned on using  -- *"Currently not all classes are being uses"*
+            Classes: - contains the scripts of classes we planned on using  -- *"Currently not all classes are being uses"*
     
-        csv: unused folder - contains previously used json files before using db.json
+            csv: unused folder - contains previously used json files before using db.json
     
-        pages: - contains js scripts for each page of the app
+            pages: - contains js scripts for each page of the app
     
-          styles: - contains csss style sheets for the pages
+                  styles: - contains csss style sheets for the pages
     
       db.json - database file used with json.server to create remote api server. Contains Users.json (username & password) and Profiles.json
